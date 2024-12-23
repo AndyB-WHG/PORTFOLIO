@@ -13,8 +13,8 @@ projects = [
     },
     {
         "name": "Microblog app with Python and MongoDB",
-        "thumb": "img/online-blog-freepic-dot-com.jpg",
-        "hero": "img/online-blog-freepic-dot-com.jpg",
+        "thumb": "img/online-blog-freepic-dot-com-min.png",
+        "hero": "img/online-blog-freepic-dot-com-min.png",
         "categories": ["python", "web"],
         "slug": "microblog",
         "prod": "https://python-web-microblog-1-3pe5.onrender.com"
