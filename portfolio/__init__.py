@@ -20,19 +20,14 @@ projects = [
         "prod": "https://python-web-microblog-1-3pe5.onrender.com"
     },
      {
-        "name": "Personal finance tracking app with React",
-        "thumb": "img/personal-finance.png",
-        "hero": "img/personal-finance.png",
-        "categories": ["react", "javascript"],
-        "slug": "personal-finance",
+        "name": "'E-volve Retail' Online Store",
+        "thumb": "img/evolve-home-page-thumb.png",
+        "hero": "img/evolve-products-page.png",
+        "categories": ["python", "web", "django", "Amazon AWS", "Stripe"],
+        "slug": "evolve-retail",
+        "prod": "https://e-volve-retail.herokuapp.com/",
     },
-    {
-        "name": "REST API Documentation with Postman and Swagger",
-        "thumb": "img/rest-api-docs.png",
-        "hero": "img/rest-api-docs.png",
-        "categories": ["writing"],
-        "slug": "api-docs",
-    },
+  
 ]
 
 slug_to_project = {project["slug"]: project for project in projects}
