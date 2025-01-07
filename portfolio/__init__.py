@@ -28,7 +28,7 @@ projects = [
         "prod": "https://python-web-microblog-1-3pe5.onrender.com"
     },
      {
-        "name": "'E-volve Retail' Online Store",
+        "name": "Online Retail Store",
         "thumb": "img/evolve-home-page-5.png",
         "hero": "img/evolve-products-page-3.png",
         "categories": ["python", "web", "django", "Amazon AWS", "Stripe"],
