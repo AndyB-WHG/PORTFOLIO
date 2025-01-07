@@ -8,7 +8,7 @@
                 <a class="u-bare-link" href="{{ url_for('project', slug=project['slug']) }}">
                     <article class="project-card">
                         <img
-                            class="project-card__image {{ 'blog_home_pic' if project['slug'] == 'microblog' }}"
+                            class="project-card__image {{ 'blog_home_pic' if project['slug'] == 'microblog'}}"
                             src="{{ url_for('static', filename=project['thumb']) }}"
                             alt="{{ project['name'] }} hero image"
                         >

@@ -4,6 +4,14 @@ app = Flask(__name__)
 
 projects = [
     {
+        "name": "Boxing Club app with HTML and CSS",
+        "thumb": "img/gym-pic.jpg",
+        "hero": "img/gym-pic.jpg",
+        "categories": ["HTML", "CSS"],
+        "slug": "boxing-club",
+        "prod": "https://andyb-whg.github.io/westhoughton-boxing-club/index.html",
+    },
+    {
         "name": "Habit tracking app with Python and MongoDB",
         "thumb": "img/habit-tracking.png",
         "hero": "img/habit-tracking-hero.png",
@@ -21,8 +29,8 @@ projects = [
     },
      {
         "name": "'E-volve Retail' Online Store",
-        "thumb": "img/evolve-home-page-thumb.png",
-        "hero": "img/evolve-products-page.png",
+        "thumb": "img/evolve-home-page-5.png",
+        "hero": "img/evolve-products-page-3.png",
         "categories": ["python", "web", "django", "Amazon AWS", "Stripe"],
         "slug": "evolve-retail",
         "prod": "https://e-volve-retail.herokuapp.com/",
