@@ -29,8 +29,8 @@ projects = [
     },
      {
         "name": "Online Retail Store",
-        "thumb": "img/habit-tracking.png",
-        "hero": "img/habit-tracking-hero.png",
+        "thumb": "img/evolve-home-page-5.png",
+        "hero": "img/evolve-products-page-3.png",
         "categories": ["python", "web", "django", "Amazon AWS", "Stripe"],
         "slug": "evolve-retail",
         "prod": "https://e-volve-retail.herokuapp.com/",
