@@ -35,7 +35,14 @@ projects = [
         "slug": "evolve-retail",
         "prod": "https://e-volve-retail.herokuapp.com/",
     },
-  
+    {
+        "name": "Sim Setup World",
+        "thumb": "img/ferrari-f1-car.jpg",
+        "hero": "img/redbullpic.jpg",
+        "categories": ["python", "web", "Flask"],
+        "slug": "sim-setup-world",
+        "prod": "https://sim-setup-world-andyb.herokuapp.com//",
+    },
 ]
 
 slug_to_project = {project["slug"]: project for project in projects}
