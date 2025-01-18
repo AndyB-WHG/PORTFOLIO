@@ -41,7 +41,15 @@ projects = [
         "hero": "img/redbullpic.jpg",
         "categories": ["python", "web", "Flask"],
         "slug": "sim-setup-world",
-        "prod": "https://sim-setup-world-andyb.herokuapp.com//",
+        "prod": "https://sim-setup-world-andyb.herokuapp.com/",
+    },
+    {
+        "name": "Sports Event Planner",
+        "thumb": "img/stadium-hero-image.jpg",
+        "hero": "img/stadium-hero-image.jpg,
+        "categories": ["API", "web", "jQuery", "Bootstrap"],
+        "slug": "sports-event-planner",
+        "prod": "https://andyb-whg.github.io/sports-event-planner/",
     },
 ]
 
